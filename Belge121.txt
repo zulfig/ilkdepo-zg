@@ -1,0 +1,120 @@
+
+
+RAKÝPLER:(Yaklaþýk olarak büyükten küçüðe doðru)
+
+http://www.metu.com.tr/tr-tr/ultrasonik-yikama-masa-ustu/1167/Urunler.aspx
+http://www.everestmakine.com.tr/urunler/masaustu-ultrasonik-y%C4%B1kama-makineleri
+http://www.intersonik.com.tr/index.php?id=110000&dil=TR&pid=10
+http://protechmakine.com/urunler/ultrasonik-yikama-sistemleri/masaustu-tip-ultrasonik-yikama-sistemleri
+http://www.surtek.com.tr/tr/urunler/elma-ultrasonik-temizleme-sistmeleri/ultrasonik-yikama-makineleri/
+http://www.ultrasoniktemizleme.com/index.php/tr/ueruenler/masaustu-modeller
+http://ultrasonikyikamatemizleme.com/
+http://www.hydraultrasonic.com/Masa%C3%BCst%C3%BC%20Ultrasonik%20Y%C4%B1kama%20Makineleri.k.299.html
+http://www.piramtek.com/ultrasonik-yikama-makineleri
+http://www.plussonic.com/ultrasonik-yikama-urunleri/10.aspx
+http://www.alexmakina.com/ultrasonik-yikama-cihazlari-pmk83
+http://www.agsultrasonic.com.tr/default.asp?page=products
+
+
+
+
+
+
+
+youtube video baðlantýlarý:
+Ultrasonik temizleme videosu, 1 dk.:
+
+----------------------------
+https://youtu.be/VCAA_xmwVqE
+
+2. video:
+
+https://youtu.be/VdYiZ61PDRg
+
+
+-------------------------------------------------------------------------------------
+WEB SÝTESÝNDE BU ÝFADELER KULLANILABÝLÝR:
+TENDE Technology and Development Tescilli Markadýr. Web sayfasý içerisindeki tüm yazý ve görseller Tende Elektronik Yazýlým Mühendislik Ýletiþim Makina Sanayi Ve Ticaret Ltd. Þti.'ne aittir. Kopyalanamaz veya baþka yerde kullanýlamazlar. 
+
+www.tende.com.tr
+
+
+
+Bina vergisi:
+3222. CADDE No:7\B BLOK-32 Pafta:
+
+Ada:43634 Parsel:2
+
+
+
+Açýklama	Adres	Beyan	Sira	Yýl	Dönem	Tutar (TL)
+BiNA VERGiSi	D.4/K.44/LÝZBON CADDE(1065.CADDE)/YUKARI ÖVEÇLER MAHALLESÝ 	9089879	1	2015	2 	195,00
+TAS.KÜL.VAR.PAYI	D.4/K.44/LÝZBON CADDE(1065.CADDE)/YUKARI ÖVEÇLER MAHALLESÝ 	9089879	1	2015	2 	19,50
+
+
+
+We can constitute a team to realise this kind of project including Project Management, Implementing and Service at a specified level by means of a contract.
+
+After careful internet searches I found out 3 popular OS:
+-FreeRTOS/OpenRTOS/SafeRTOS
+-Micrium uC/OS III
+-KEIL RTX
+
+As you can see we are very early stage of developing an embedded aplications. Together with RTOS, We need to make decisions include:
+- Platform (ARM for now)
+- Microcontroller (ST ARM Cortex series for now)
+- Programming Language
+- Development board
+- Test Tools
+- Others (if any)
+
+
+1003-BIT-BGUV-2016-1 Siber Güvenlik
+
+1003-BIT-GNBT-2016-1 Geleceðin Ýnterneti
+
+1003-BIT-GOMS-2016-1-1 Kullanýcý Arayüzleri
+
+1003-BIT-GOMS-2016-1-2 Ýþlemci Mimarileri
+
+1003-BIT-MILT-2016-1 Nesnelerin Ýnterneti Kapsamýnda M2M Uygulamalarýna Yönelik Araþtýrmalar
+
+1003-BIT-MNOE-2016-1 Yarýiletken Malzemelere Dayalý Optoelektronik Aygýt ve Sistemler
+
+1003-BIT-ROME-2016-1 Yeni Nesil Robotik Sistemler
+
+1003-BIT-VERI-2016-1 Yenilikçi Bilgi Kesif Yöntemleri
+
+1003-ENE-BORT-2016-1 Yeni Bor Ürünlerinin, Üretim Teknolojilerinin Geliþtirilmesi ve Kullaným 
+
+1003-ENE-EVKN-2016-1 Maliyet Etkin Enerji Verimli Binalar
+
+1003-ENE-EVSA-2016-1 Sanayi Ölçekli Bileþik Isý Güç ve Üçlü Üretim Sistemleri
+
+1003-ENE-GUCD-2016-1 Elektrik Þebekeleri için Süperiletken Malzeme ve Teknolojileri
+
+1003-ENE-GUNS-2016-1 Güneþ Enerjisine Dayalý Isýl ve/veya Birleþik Elektrik Üreten Sistemler
+
+1003-ENE-KOMR-2016-1 Kömür-Biyokütle Karýþýmlý Yakma Teknolojileri
+
+1003-KMY-KMYM-2016-1 Yerli Bitki Kaynaklarýndan (Endemik, Týbbi, Aromatik vb.) Deðerli 
+
+1003-MAK-ROME-2016-1 Seri Üretim Hatlarýnda Gömülü Sistemler
+
+1003-OTO-HEAT-2016-1 Ýçten Yanmalý Motor ve Sürücü Teknolojileri
+
+1003-OTO-MALZ-2016-1 Yeni Nesil Yüksek Mukavemetli Çelikler
+
+1003-SAB-BMED-2016-1 Biyoenstrümantasyon Sistemleri
+
+1003-SAB-BMLZ-2016-1 Nanobiyoteknoloji
+
+1003-SAB-TANI-2016-1 Kanser Tanýsý
+
+1003-SAB-TTIP-2016-1 Moleküler Týp
+
+1003-SBB-AILE-2016-1 Aile Ýçi Þiddet
+
+1003-SBB-EKBY-2016-1 Rekabetçiliði Etkileyen Faktörler
+
+1003-SUA-YNTM-2016-1 Su Kaynaklarýný Etkileyen Faktörler
